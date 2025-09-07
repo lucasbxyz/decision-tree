@@ -1,2 +1,4 @@
 # decision-tree
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbxyz/decision-tree/HEAD)
+
+This project utilizes decision trees and random forests to predict whether a borrower from LendingClub.com will repay their loan. LendingClub connects individuals who need money (borrowers) with those looking to invest (lenders). As an investor, the goal is to lend money to borrowers who are highly likely to repay. The objective of this project is to build a model that aids in this prediction. The dataset used contains loan data from 2007 to 2010, before LendingClub went public, and has been cleaned to remove unavailable entries. The model aims to predict whether a borrower fully repaid the loan or not, based on the provided CSV data from the course materials. This project is an assignment from the Udemy course: [Python für Data Science, Machine Learning & Visualization](https://www.udemy.com/course/python-data-science-machine-learning).
